@@ -1,7 +1,7 @@
 # Mapty
 
 [![Tech Stack](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-black?style=flat-square)](#)
-> A dynamic and visually appealing restaurant menu that allows users to browse food items with filters and detailed images for each dish. The design ensures a clean user experience, making it easy for customers to find their desired meals.
+> A workout tracking app that uses geolocation to log running and cycling sessions on an interactive map with detailed stats.
 
 ## Overview
 
